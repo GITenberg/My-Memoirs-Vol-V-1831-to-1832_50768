@@ -1,10 +1,14 @@
 _repo: My-Memoirs-Vol-V-1831-to-1832_50768
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Waller, E. M. (Emily Mary)
     alias: Waller, Emily Mary
     gutenberg_agent_id: '37385'
     url: http://www.gutenberg.org/2009/agents/37385
+covers:
+- cover_type: archival
+  image_path: 50768-h/images/cover.jpg
 creator:
   author:
     agent_name: Dumas, Alexandre
@@ -18,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/492
     wikipedia: http://en.wikipedia.org/wiki/Alexandre_Dumas,_père
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50768#My-Memoirs-Vol-V-1831-to-1832
 gutenberg_issued: '2015-12-25'
 gutenberg_type: Text
 identifiers:
